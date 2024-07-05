@@ -24,7 +24,7 @@
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
-[![alt text][7.1]][7]
+
 
 
 <!-- links to social media icons -->
@@ -38,7 +38,7 @@
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: https://i.imgur.com/O6uRXTR.png (linkedin icon with padding)
+
 
 <!-- icons without padding -->
 
@@ -48,7 +48,7 @@
 [4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
 [5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[7.2]: https://i.imgur.com/8Tk3rSm.png (linkedin icon without padding)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
@@ -59,6 +59,6 @@
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
-[7]: http://www.linkedin.com/in/carlsednaoui
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
