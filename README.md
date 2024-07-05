@@ -11,3 +11,6 @@
 * React Js
 * Node Js
 * Flutter
+
+### Connect with me:
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
