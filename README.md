@@ -50,6 +50,8 @@
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawajfaisal981/)
 
+[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/faisalkhawaj/)
+
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
