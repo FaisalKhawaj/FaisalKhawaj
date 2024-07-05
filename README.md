@@ -1,5 +1,5 @@
 ##  <p align="center"> Hi 👋, I'm Faisal Khawaj </p>
-### <p align="center">  A Passionate Software Engineer ( React Native & React Js ) </p>
+### <p align="center">  A Passionate Software Engineer </p>
 
 ![](https://komarev.com/ghpvc/?username=FaisalKhawaj)
 
