@@ -6,8 +6,8 @@
 ## My skills 📜
 * JavaScript
 * TypeScript
+* Dart
 * React Native
 * React Js
 * Node Js
-* Dart
 * Flutter
