@@ -6,3 +6,6 @@
 ## My skills 📜
 * JavaScript
 * TypeScript
+* React Native
+* React Js
+* Node Js
