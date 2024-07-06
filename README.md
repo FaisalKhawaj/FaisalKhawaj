@@ -1,18 +1,25 @@
-##  <p align="center"> Hi 👋, I'm Faisal Khawaj </p>
-### <p align="center">  A Passionate Software Engineer </p>
+<h1 align="center">Hi 👋, I'm Faisal Khawaj</h1>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-![](https://komarev.com/ghpvc/?username=FaisalKhawaj)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalkhawaj&label=Profile%20views&color=0e75b6&style=flat" alt="faisalkhawaj" /> </p>
 
-## My skills 📜
-* JavaScript
-* TypeScript
-* Dart
-* React Native
-* React Js
-* Node Js
-* Flutter
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalkhawaj" alt="faisalkhawaj" /></a> </p>
 
-### Connect with me:
+- 💬 Ask me about **React Native**
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawajfaisal981/)
+- 📫 How to reach me **khawajfaisal981@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/khawajfaisal981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khawajfaisal981" height="30" width="40" /></a>
+<a href="https://instagram.com/faisalkhawaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisalkhawaj" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalkhawaj&show_icons=true&locale=en&layout=compact" alt="faisalkhawaj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalkhawaj&show_icons=true&locale=en" alt="faisalkhawaj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalkhawaj&" alt="faisalkhawaj" /></p>
